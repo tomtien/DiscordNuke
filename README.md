@@ -6,7 +6,7 @@ Using this software for mallicious intents is forbidden by the discord TOS. You 
 or servers for which you have explicit permission to do so. 
 
 ## How to run?
-You simply need to add a **token.js** file in the root directory which contains your discord API token:
+You simply need to add a **token.json** file in the root directory which contains your discord API token:
 ```json
 {
   "token":"YOUR_TOKEN"
